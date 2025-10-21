@@ -1,5 +1,15 @@
 '''
 Aula Banco de dados em pratica
+instalar sqllite alexcv
+
+
+show tables
+.tables
+
+ctrl + shift + Q
+
+
+.schema   mostra o esquema de criação da tabela (codigo para criar a tabela)
 
 
 '''
